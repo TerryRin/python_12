@@ -1,3 +1,3 @@
-SELENOID_LOGIN='user1'
-SELENOID_PASS='1234'
-SELENOID_URL='https://selenoid.autotests.cloud'
+SELENOID_LOGIN = "user1"
+SELENOID_PASS = "1234"
+# selenoid_url='selenoid.autotests.cloud'
